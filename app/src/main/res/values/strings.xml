@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mvvm-calculator</string>
+
+    <string name="hitung_volume_balok">Hitung Volume Balok</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="masukkan_lebar">Masukkan Lebar</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi</string>
+    <string name="hitung_volume">Hitung Volume</string>
+    <string name="hasil_volume">Hasil Volume</string>
+
+</resources>
